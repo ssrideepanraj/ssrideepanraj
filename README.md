@@ -2,17 +2,20 @@
 
 ### 🚀 About Me
 
-I'm Srideepanraj, a passionate **Computer Science Engineering student** with a keen interest in **web development**. My journey in tech began with exploring various programming languages and frameworks, leading to a deep appreciation for building dynamic and user-friendly web applications.
+As a final-year Computer Technology engineer with a strong foundation in problem-solving using C and C++, I am passionate about leveraging my skills in machine learning, deep learning, and neural networks to create innovative solutions. My expertise in Python and its libraries, combined with my experience in deploying machine learning models in web applications enables me to bridge the gap between complex algorithms and user-friendly interfaces. I am eager to contribute to cutting-edge projects and drive technological advancements in the field of machine learning and web development.
 
 ### 🔧 Skills & Tools
 
-- **Frontend Development:** 
+- **Web Development:** 
   - HTML5
   - CSS3
   - JavaScript (ES6+)
-
-- **Backend Development:**
   - PHP
+
+- **Machine Learning:**
+  - Deep Learning
+  - Tensorflow
+  - Python libraries
 
 - **Programming Languages:**
   - C
@@ -21,7 +24,7 @@ I'm Srideepanraj, a passionate **Computer Science Engineering student** with a k
 - **Tools & Technologies:**
   - Git & GitHub
   - MySQL
-  - Composer
+  - Jupyter notebook
   - VS Code
 
 ### 🛠️ Projects
@@ -30,14 +33,14 @@ Here are a few of the projects I've been working on:
 
 1. **[Transiticketx](https://github.com/ssrideepanraj/transiticketx)** - A PHP-based ticket booking web application allowing users to browse and book tickets for various events with ease.
 
-2. **[Portfolio Website](https://github.com/yourusername/portfolio)** - My personal portfolio showcasing my skills, projects, and experience, built using HTML, CSS, and JavaScript.
+2. **[EnvironmentalClassification](https://github.com/yourusername/env_class_DL)** - A deep learning-based project for classifying environmental images into distinct categories, such as Forest, Residential, etc. using Convolutional Neural Network (CNN) and Fractals
 
 
 ### 📚 Learning & Interests
 
 I'm constantly learning and expanding my skill set. Currently, I'm delving into:
 - Advanced JavaScript and modern frameworks (React, Vue.js).
-- Backend technologies like Node.js and Express.
+- Improving Machine learning techniques
 - Improving my problem-solving skills with competitive programming in Python.
 
 ### 🌐 Connect with Me
